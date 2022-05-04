@@ -1,5 +1,4 @@
 # jsgame
-https://anamikakashyap.github.io/jsgame/
 
 <!DOCTYPE html>
 
